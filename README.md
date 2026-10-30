@@ -2,6 +2,8 @@
 
 > An AI-powered news credibility & fake news detector combining machine learning (scikit-learn TF-IDF + Logistic Regression), live Google News cross-referencing, Wikipedia fact-checks, ChatGPT verification, and in-browser paragraph image OCR.
 
+https://factforge.de2.netrun.io
+
 ---
 
 ## 🌟 Key Features
@@ -35,7 +37,8 @@ python train.py
 ```bash
 python app.py
 ```
-Open [http://127.0.0.1:5001](http://127.0.0.1:5001) in your browser.
+Open https://factforge.de2.netrun.io in your browser.
+open [http://127.0.0.1:5001](http://127.0.0.1:5001) in your browser.
 
 ---
 
