@@ -2,6 +2,7 @@
 
 > An AI-powered news credibility & fake news detector combining machine learning (scikit-learn TF-IDF + Logistic Regression), live Google News cross-referencing, Wikipedia fact-checks, ChatGPT verification, and in-browser paragraph image OCR.
 
+http://127.0.0.1:5001 <br>
 https://factforge.de2.netrun.io
 
 ---
